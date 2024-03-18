@@ -1,0 +1,6 @@
+spring:
+  application:
+    aws: ${ACCESS-KEY-AWS}
+    aws2: ${SECRET-KEY-AWS}
+
+
